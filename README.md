@@ -81,7 +81,7 @@ This project demonstrates a complete retail analytics workflow using **SQL**, **
 
 **Insight:** 14 of 35 products generate approximately 80% of total revenue.
 
-**Screenshot:** ![Product Performance Dashboard](https://github.com/sahibsingh25012005-ui/maven-toys-retail-analytics/blob/main/Power%20BI%20Dashboards/Images/Product%20Performance.png)
+**Screenshot:** ![Product Performance Dashboard](https://github.com/sahibsingh25012005-ui/maven-toys-retail-analytics/blob/main/Images/Product%20Performance.png)
 
 ### Store Performance
 - Best Store
@@ -89,7 +89,7 @@ This project demonstrates a complete retail analytics workflow using **SQL**, **
 - Revenue by Store
 - Revenue by City
 
-**Screenshot:** ![Store Performance Dashboard](https://github.com/sahibsingh25012005-ui/maven-toys-retail-analytics/blob/main/Power%20BI%20Dashboards/Images/Store%20Performance.png)
+**Screenshot:** ![Store Performance Dashboard](https://github.com/sahibsingh25012005-ui/maven-toys-retail-analytics/blob/main/Images/Store%20Performance.png)
 
 ### Inventory Analysis
 - Total Stock
@@ -99,7 +99,7 @@ This project demonstrates a complete retail analytics workflow using **SQL**, **
 
 **Insight:** Products with fewer than 15 days remaining are flagged as critical.
 
-**Screenshot:** ![Inventory Analysis Dashboard](https://github.com/sahibsingh25012005-ui/maven-toys-retail-analytics/blob/main/Power%20BI%20Dashboards/Images/Inventory%20Analysis.png)
+**Screenshot:** ![Inventory Analysis Dashboard](https://github.com/sahibsingh25012005-ui/maven-toys-retail-analytics/blob/main/Images/Inventory%20Analysis.png)
 
 ### Sales Forecast & Trend Analysis
 - Historical Revenue
@@ -108,7 +108,7 @@ This project demonstrates a complete retail analytics workflow using **SQL**, **
 
 **Insight:** Revenue declined by **0.41%** in September 2023; forecast indicates stable short-term revenue.
 
-**Screenshot:** ![Sales Forecast Dashboard](https://github.com/sahibsingh25012005-ui/maven-toys-retail-analytics/blob/main/Power%20BI%20Dashboards/Images/Revenue%20Forecast.png)
+**Screenshot:** ![Sales Forecast Dashboard](https://github.com/sahibsingh25012005-ui/maven-toys-retail-analytics/blob/main/Images/Revenue%20Forecast.png)
 
 ## 📈 Key Business Findings
 

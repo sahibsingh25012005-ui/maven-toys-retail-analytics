@@ -38,7 +38,6 @@ This project demonstrates a complete retail analytics workflow using **SQL**, **
 | Most Profitable Product | **Colorbuds** ($834.94K) |
 | Best Performing Store | **Ciudad de Mexico 2** |
 | Product Contribution | Lego Bricks contributes **16.54%** of total revenue |
-| Cumulative Revenue | Revenue increased consistently month over month |
 
 ### SQL Skills
 - Joins
@@ -73,7 +72,7 @@ This project demonstrates a complete retail analytics workflow using **SQL**, **
 - Sales & Profit Trends
 - Regional Analysis
 
-**Screenshot:** `https://github.com/sahibsingh25012005-ui/maven-toys-retail-analytics/blob/main/Power%20BI%20Dashboards/Images/Executive%20Dashboard.png`
+**Screenshot:** `[https://github.com/sahibsingh25012005-ui/maven-toys-retail-analytics/blob/main/Power%20BI%20Dashboards/Images/5%20Dashboard.png](https://github.com/sahibsingh25012005-ui/maven-toys-retail-analytics/blob/main/Images/Executive%20Dashboard.png)`
 
 ### Product Performance
 - Best Selling Product

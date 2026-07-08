@@ -72,7 +72,7 @@ This project demonstrates a complete retail analytics workflow using **SQL**, **
 - Sales & Profit Trends
 - Regional Analysis
 
-**Screenshot:** [Executive Dashboard](https://github.com/sahibsingh25012005-ui/maven-toys-retail-analytics/blob/main/Images/Executive%20Dashboard.png)
+**Screenshot:** ![Executive Dashboard](https://github.com/sahibsingh25012005-ui/maven-toys-retail-analytics/blob/main/Images/Executive%20Dashboard.png)
 
 ### Product Performance
 - Best Selling Product
